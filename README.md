@@ -119,7 +119,7 @@ It is a standard metric for language models that measures how "surprised" the mo
 
 As n increases, the gap between what we observe and what's theoretically possible grows exponentially:
 
-| Model  | Unique n-grams (observed) | Possible n-grams (theoretical) |  Coverage | Issue |
+| Model  | Observed n-grams| Possible n-grams (theoretical) |  Coverage | Issue |
 |-------|------------------|------------------|----------|-------|
 | 1-gram | 7,396          |7,396 (V¹)          |**100%** | ✅ None |
 | 2-gram | 42,315         | 54.7 million (V²)           | **0.077%** | ⚠️ Emerging |
